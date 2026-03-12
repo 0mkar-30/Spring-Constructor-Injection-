@@ -16,6 +16,8 @@ public class Test {
 		Student s= (Student) b.getBean("obj");
 		
 		System.out.println(s);
+		
+		
 
 	}
 
